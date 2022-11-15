@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='fep',
-    version='0.2',
+    version='0.4',
     packages=['fep'],
     package_data={'fep': ['Robot/test.robot']},
     url='https://github.com/Selfeer/common-repo',
