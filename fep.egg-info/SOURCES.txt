@@ -1,7 +1,0 @@
-setup.py
-fep/__init__.py
-fep/page.py
-fep.egg-info/PKG-INFO
-fep.egg-info/SOURCES.txt
-fep.egg-info/dependency_links.txt
-fep.egg-info/top_level.txt
